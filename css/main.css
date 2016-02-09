@@ -955,7 +955,7 @@ only screen and (min-device-pixel-ratio : 1.5) {
 }
 .main{
     padding-top: 140px;
-    background-image: url("/img/bg.png");
+    background-image: url("/img/banner.png");
     background-color: transparent;
     background-size: cover;
     background-position: 50% 50%;
@@ -963,3 +963,7 @@ only screen and (min-device-pixel-ratio : 1.5) {
     height: 424px;
 }
 
+.logo {
+    margin-top: -80px;
+    margin-bottom: 40px;
+}
