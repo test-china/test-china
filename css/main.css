@@ -350,7 +350,7 @@ img { max-width: 100%; }
 }
 .venue {
     background: #7c6c7d url("/img/map.png") no-repeat center center;
-  height: 340px;
+  /*height: 340px;*/
   border: none;
   padding-top: 80px;
 }
